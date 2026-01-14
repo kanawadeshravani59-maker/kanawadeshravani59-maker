@@ -1,6 +1,6 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+I'm+Shravani+Khanawade;Data+Analyst+%7C+Data+Scientist;Turning+Data+Into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+I'm+Shravani+Kanawade;Data+Analyst+%7C+Data+Scientist;Turning+Data+Into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning" />
 </p>
 
 ---
