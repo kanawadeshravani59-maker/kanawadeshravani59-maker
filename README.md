@@ -108,9 +108,9 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="www.linkedin.com/in/shravani-kanawade-4a6a88330
+  <a href="www.linkedin.com/in/shravani-kanawade-4a6a88330"
+  >
 
-">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="mailto:kanawadeshravani59@gmail.com
